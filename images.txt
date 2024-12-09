@@ -1,1 +1,4 @@
 nginx
+node:22.12
+zzsrv/openwrt:amd64
+mysql:lts
